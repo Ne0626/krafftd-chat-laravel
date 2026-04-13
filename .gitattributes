@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.blade.php text eol=lf
+*.php text eol=lf
+*.json text eol=lf
